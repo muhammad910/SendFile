@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
  */
 public class SendBig {
 
-    public static File f = null;
+    private static File f = null;
 
     public static void main(String[] args) throws IOException {
 
